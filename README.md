@@ -29,6 +29,9 @@ it. Recently, I got a message from Dropbox saying that all my data would be
 deleted unless I logged in. So, I logged in, and low and behold there was a
 zipped folder containing the source code and the below README.
 
+Here is the unmodified source code and the original README for your
+entertainment.
+
 ## Original README From Project Submission
 
 SEVEN SEGMENT DIGITAL CLOCK
